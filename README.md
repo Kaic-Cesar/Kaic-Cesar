@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/Kaic-Cesar">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Kaic-Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaic-Cesar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Kaic-Cesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaic-Cesar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>          
