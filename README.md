@@ -1,7 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1059BB&height=129&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=1059BB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Kaic+Cesar;I'm+22+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+# Olá! Eu sou o Kaic Cesar 👋 
 
 
+- 📱 iOS Developer
+- 🧑‍🎓 3/8 Engenharia de Software
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaic-cesar&bg_color=303030&color=ffffff&line=1059bb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaic-Cesar&show_icons-true&theme=dark&include_all_commits-true&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaic-Cesar&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg"/>
+  <img align="center" alt="Kaic-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+</div>
+<hr>
+
+<div>
+    <a href="https://www.linkedin.com/in/kaic-cesar/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="mailto:kaic_cesar@hotmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
