@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kaic Cesar 👋 
 
 
-- 📱 iOS Developer
+- 📱 Desenvolvedor de Software
 - 🧑‍🎓 3/8 Engenharia de Software
 <br>
 
