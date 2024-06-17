@@ -2,7 +2,7 @@
 
 
 - 📱 Desenvolvedor de Software
-- 🧑‍🎓 3/8 Engenharia de Software
+- 🧑‍🎓 4/8 Engenharia de Software
 <br>
 
 <div style="display: inline_block">
